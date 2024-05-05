@@ -49,7 +49,7 @@ function buildTimeline() {
 
         <section class="post-container">
             <div class="post-footer">
-                <div class="btn like on">
+                <div class="btn like">
                     <img src="images/icon-heart.png" class="heart-empty">
                     <img src="images/icon-heart-filled.png"  class="heart-full">
                 </div>
